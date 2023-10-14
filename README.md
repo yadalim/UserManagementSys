@@ -16,9 +16,33 @@ User Management System with HTML, CSS, JS, Node.js, Express and MongoDB
 <br>
 
 ## MongoDB Cluster[CrudDB]
-<img src="https://github.com/iNightjar/User-Management-System/blob/master/images/cloudDB.png?raw=true" href="https://github.com/iNightjar" alt="cloudDB" />
+<img src="https://github.com/yadalim/UserManagementSys/blob/main/src/img/Screenshot%202023-10-14%20at%209.23.06%E2%80%AFPM.png" />
 
 <br>
+
+## Postman collection 
+Create User:
+<img src="https://github.com/yadalim/UserManagementSys/blob/main/src/img/Screenshot%202023-10-14%20at%209.24.19%E2%80%AFPM.png" />
+
+<br>
+
+Get All users:
+<img src="https://github.com/yadalim/UserManagementSys/blob/main/src/img/Screenshot%202023-10-14%20at%209.24.39%E2%80%AFPM.png" />
+
+<br>
+
+Get user by ID:
+<img src="https://github.com/yadalim/UserManagementSys/blob/main/src/img/Screenshot%202023-10-14%20at%209.24.46%E2%80%AFPM.png" />
+
+<br>
+
+Update User:
+<img src="https://github.com/yadalim/UserManagementSys/blob/main/src/img/Screenshot%202023-10-14%20at%209.24.53%E2%80%AFPM.png" />
+
+<br>
+
+Delete User:
+<img src="https://github.com/yadalim/UserManagementSys/blob/main/src/img/Screenshot%202023-10-14%20at%209.25.18%E2%80%AFPM.png" />
 
 ### Crud application using
 
